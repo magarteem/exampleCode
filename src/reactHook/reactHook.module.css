@@ -1,0 +1,22 @@
+.divForm {
+  display: flex;
+  background-color: rebeccapurple;
+}
+.form {
+  margin: 0 auto;
+}
+.form input,
+.form button {
+  cursor: pointer;
+  width: 150px;
+  height: 50px;
+  margin: 10px 5px;
+  padding: 5px 5px;
+  font-size: 18px;
+  color: darkgreen;
+  font-weight: 600;
+}
+.form input:hover,
+.form button:hover {
+  background-color: rgb(221, 218, 218);
+}

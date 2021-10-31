@@ -1,0 +1,20 @@
+.blockPhone {
+  background-color: antiquewhite;
+  width: 200px;
+  padding: 10px;
+  text-align: left;
+}
+
+.country-list {
+  color: blue;
+}
+.rr {
+  color: blue;
+  background-color: brown;
+  width: 200px;
+}
+.react-tel-input .form-control {
+  color: blue;
+  background-color: brown;
+  width: 200px;
+}

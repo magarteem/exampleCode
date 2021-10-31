@@ -1,0 +1,9 @@
+/*!  selectPrefix*/
+.selectPrefix__menu-list div:nth-child(2) {
+  color: blue;
+  font-weight: 600;
+  font-size: 30px;
+}
+.selectPrefix__menu-list {
+  color: rgb(255, 30, 0);
+}
