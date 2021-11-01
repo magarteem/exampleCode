@@ -19,7 +19,7 @@ export const CopyObjekt_1 = () => {
   return (
     <div>
       {date_1.map((e) => (
-        <div>
+        <div key={e.id.toString()}>
           <li>{e.id}</li>
           <li>{e.name}</li>
           <li>{e.age}</li>
